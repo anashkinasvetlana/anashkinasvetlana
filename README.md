@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anashkinasvetlana
-- 👀 I’m interested in in exploring Java programming, I'm inspired by art, and enjoying my life.
+- 👀 I’m interested in exploring Java programming, I'm inspired by art, and enjoying my life.
 - 🌱 I’m currently learning Java programming.
 - 💞️ I’m looking to collaborate on Aston.
 - 📫 How to reach me: anashkinasviatlana@gmail.com
